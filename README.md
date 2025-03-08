@@ -18,8 +18,8 @@ This project aims to develop a machine learning system that accurately identifie
 **Machine Learning Approach**
 
 Classifiers Implemented:
-
 To ensure robust detection, the project explored various machine learning classifiers:
+
   -Multinomial Naïve Bayes
   -Logistic Regression
   -Linear Support Vector Classifier (SVC)
