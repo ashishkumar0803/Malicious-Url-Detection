@@ -1,7 +1,3 @@
-[Google colab link](https://drive.google.com/file/d/1iMxXHwDZBHNNiLi2WBisYxf4Z6mygY7h/view?usp=sharing)
-[Dataset](https://www.kaggle.com/datasets/xwolf12/malicious-and-benign-websites)
-
-
 ## Malicious URL Detection - Machine Learning Project
 
 **Project Overview**
@@ -28,8 +24,13 @@ To ensure robust detection, the project explored various machine learning classi
 **Results**
 | Classifier | Precision | Recall | F1-score|
 | ---------- | --------- | ------ | ------- |
-| Multinomial | Naïve Bayes | 0.44 | 0.37 | 0.32 |
+| Multinomial Naïve Bayes | 0.44 | 0.37 | 0.32 |
 | Logistic Regression | 0.57 | 0.66 | 0.48 |
 | Linear SVC | 0.44 | 0.37 | 0.32 |
 | Decision Tree | 1.0 | 1.0 | 1.0 |
 | Random Forest | 1.0 | 1.0 | 1.0 |
+
+
+[**Google colab link**](https://drive.google.com/file/d/1iMxXHwDZBHNNiLi2WBisYxf4Z6mygY7h/view?usp=sharing)
+
+[**Dataset**](https://www.kaggle.com/datasets/xwolf12/malicious-and-benign-websites)
