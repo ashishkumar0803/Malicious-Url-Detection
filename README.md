@@ -16,10 +16,10 @@ This project aims to develop a machine learning system that accurately identifie
   - Adapt to evolving threats by learning new malicious URL patterns.
 
 **Machine Learning Approach**
-  -To ensure robust detection, the project explored various machine learning classifiers:
-    -Multinomial Naïve Bayes
-    -Logistic Regression
-    -Linear Support Vector Classifier (SVC)
-    -Decision Trees
-    -Random Forest
-    -Support Vector Machine (SVM)
+To ensure robust detection, the project explored various machine learning classifiers:
+  - Multinomial Naïve Bayes
+  - Logistic Regression
+  - Linear Support Vector Classifier (SVC)
+  - Decision Trees
+  - Random Forest
+  - Support Vector Machine (SVM)
