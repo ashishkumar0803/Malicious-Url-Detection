@@ -1,6 +1,6 @@
 ## Malicious URL Detection - Machine Learning Project
 
-**Project Overview**
+**Project Overview** 
 
 In the ever-evolving landscape of cybersecurity, the rise of sophisticated cyber attacks demands innovative and proactive solutions. Malicious URLs are commonly used in cyber attacks, including phishing schemes and malware distribution. Detecting and mitigating these threats is crucial for safeguarding sensitive information, personal privacy, and maintaining digital security.
 
@@ -34,3 +34,5 @@ To ensure robust detection, the project explored various machine learning classi
 [**Google colab link**](https://drive.google.com/file/d/1iMxXHwDZBHNNiLi2WBisYxf4Z6mygY7h/view?usp=sharing)
 
 [**Dataset**](https://www.kaggle.com/datasets/xwolf12/malicious-and-benign-websites)
+
+[**Slides**](https://drive.google.com/file/d/18SZV5CfFQG7kbRX_sEIaZ2SEpzOP8-x7/view?usp=sharing)
